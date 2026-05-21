@@ -11,8 +11,8 @@
   <li>Anggota:</li>
   <ul>
     <li> Hilbram Ramadhan Putra <a href="https://github.com/HirapuAH">Hilbram Ramadhan Putra</a></li>
-    <li><a href="">nama</a>link github</li>
-    <li><a href="">nama</a>link github</li>
-    <li><a href="">nama</a>link github</li>
+    <li>nama<a href="">link github</a></li>
+    <li>nama<a href="">link github</a></li>
+    <li>nama<a href="">link github</a></li>
   </ul>
 </ul>
