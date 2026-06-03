@@ -11,7 +11,7 @@
   <li>Anggota:</li>
   <ul>
     <li> Hilbram Ramadhan Putra <a href="https://github.com/HirapuAH">HirapuAH</a></li>
-    <li>nama<a href="">link github</a></li>
+    <li>Gens Frastyo Putra <a href="https://github.com/gensfrastyop-png">gensfrastyop-png</a></li>
     <li>nama<a href="">link github</a></li>
     <li>nama<a href="">link github</a></li>
   </ul>
