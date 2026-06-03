@@ -12,7 +12,7 @@
   <ul>
     <li> Hilbram Ramadhan Putra <a href="https://github.com/HirapuAH">HirapuAH</a></li>
     <li>Gens Frastyo Putra <a href="https://github.com/gensfrastyop-png">gensfrastyop-png</a></li>
-    <li>Faisal Muhamad Rizqi<a href="">menyusul</a></li>
+    <li>Faisal Muhamad Rizqi<a href="https://github.com/YukariK9">YukariK9</a></li>
     <li>M.Fathir putra Hermansyah<a href=""></menyusul></li>
   </ul>
 </ul>
