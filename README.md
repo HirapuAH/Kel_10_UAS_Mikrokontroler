@@ -22,6 +22,7 @@
 
 ## Komponen
 <p>Ini adalah beberapa komponen yang digunakan dalam membuat projek ini : </p>
+<ul>
   <li>ESP32 Development Board</li>
   <li>Sensor MAX30100</li>
   <li>Sensor DS18B20</li>
@@ -29,5 +30,6 @@
   <li>Resistor 4,7 kilo-ohm (kΩ)</li>
   <li>Breadboard</li>
   <li>Kabel Jumper</li>
+</ul>
 
-## Komponen
+## ?
