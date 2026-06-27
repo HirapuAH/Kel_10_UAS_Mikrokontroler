@@ -18,4 +18,4 @@
 </ul>
 
 # Pengertian dan Fungsi
-<p> Pendeteksi Sensor Tubuh adalah suatu alat yang bisa monitoring 3 sensor yaitu suhu, detak jantung dan Oxygen Level /n 
+<p> Pendeteksi Sensor Tubuh adalah suatu alat yang bisa monitoring 3 sensor yaitu suhu, detak jantung dan Oxygen Level dengan fungsi yaitu sebagai alat medis sederhana dalam deteksi suhu, oxygen dan detak jantung dengan fitur tambahan dalam deteksi suhu ruangan. 
