@@ -7,7 +7,7 @@
 ## Kelompok
 <ul>
   <li>Kelompok: 10</li>
-  <li>judul Projek : </li>
+  <li>judul Projek : Pendeteksi Sensor Tubuh</li>
   <li>Anggota:</li>
   <ul>
     <li> Hilbram Ramadhan Putra <a href="https://github.com/HirapuAH">HirapuAH</a></li>
@@ -16,3 +16,6 @@
     <li>M.Fathir putra Hermansyah<a href=""></menyusul></li>
   </ul>
 </ul>
+
+# Pengertian dan Fungsi
+<p> Pendeteksi Sensor Tubuh adalah suatu alat yang bisa monitoring 3 sensor yaitu suhu, detak jantung dan Oxygen Level /n 
