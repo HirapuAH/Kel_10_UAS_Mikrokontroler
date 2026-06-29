@@ -39,5 +39,5 @@ blynk company
   <li>Website <a href="https://www.blynk.io/">Blynk Web</a></li>
   <p>Mengintergasikan fitur pada mikrotik sebelum diimplementasikan dalam aplikasi</p>
   <li>Aplikasi <a href="https://www.blynk.io/](https://play.google.com/store/search?q=bylnk&c=apps&hl=id-ID&utm_source=apac_med)">Blynk App</a></li>
-  <p>Menampilkan layout yang sudah di intergasi oleh versi webistenya</p>
+  <p>Menampilkan layout yang sudah di intergasi oleh versi websitenya</p>
 </ul>
