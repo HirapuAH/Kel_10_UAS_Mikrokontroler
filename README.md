@@ -33,7 +33,7 @@
 </ul>
 
 ## Demo Software
-<p>Aplikasi yang kita gunakan aplikasi yang sudah ada dari maufaktur blynk Company </p>
+<p>Aplikasi yang kita gunakan sudah ada dari maufaktur Blynk Company </p>
 <ul>
   <li>Website <a href="https://www.blynk.io/">Blynk Web</a></li>
   <p>Mengintergasikan fitur pada mikrotik sebelum diimplementasikan dalam aplikasi</p>
