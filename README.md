@@ -24,9 +24,9 @@
 <p>Ini adalah beberapa komponen yang digunakan dalam membuat projek ini : </p>
 <ul>
   <li>ESP32 Development Board</li>
-  <li>Sensor MAX30100</li>
-  <li>Sensor DS18B20</li>
-  <li>Sensor DHT11</li>
+  <li>Sensor MAX30100 (Mengukur detak jantung dan tingkat oksigen dalam darah.)</li>
+  <li>Sensor DS18B20 (mengukur suhu tubuh pasien dengan tingkat akurasi yang lebih tinggi.) </li>
+  <li>Sensor DHT11 (Memantau suhu lingkungan atau suhu ruangan) </li>
   <li>Resistor 4,7 kilo-ohm (kΩ)</li>
   <li>Breadboard</li>
   <li>Kabel Jumper</li>
