@@ -40,5 +40,7 @@
 
   <p>Mengintergasikan fitur pada mikrotik sebelum diimplementasikan dalam aplikasi</p>
   <li>Aplikasi <a href="https://play.google.com/store/search?q=bylnk&c=apps&hl=id-ID&utm_source=apac_med">Blynk App</a></li>
+  <img width="720" height="1600" alt="WhatsApp Image 2026-06-30 at 09 27 05" src="https://github.com/user-attachments/assets/0ccb3981-26a3-48d9-804f-2adb4106210a" />
+
   <p>Menampilkan layout yang sudah di intergasi oleh versi websitenya</p>
 </ul>
