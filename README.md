@@ -36,7 +36,11 @@
 <p>Aplikasi yang kita gunakan sudah ada dari maufaktur Blynk Company </p>
 <ul>
   <li>Website <a href="https://www.blynk.io/">Blynk Web</a></li>
+  <img width="1923" height="1007" alt="Screenshot 2026-06-29 134417" src="https://github.com/user-attachments/assets/eb4ae34a-9724-43c0-b292-e3082ec5a88e" />
+
   <p>Mengintergasikan fitur pada mikrotik sebelum diimplementasikan dalam aplikasi</p>
   <li>Aplikasi <a href="https://play.google.com/store/search?q=bylnk&c=apps&hl=id-ID&utm_source=apac_med">Blynk App</a></li>
+  <img width="720" height="1600" alt="WhatsApp Image 2026-06-30 at 09 27 05" src="https://github.com/user-attachments/assets/a978e369-a00a-4127-aac1-cdbaa0e0b5a4" />
+
   <p>Menampilkan layout yang sudah di intergasi oleh versi websitenya</p>
 </ul>
